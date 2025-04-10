@@ -44,7 +44,7 @@ and so on. Each folder represents a day’s work.
 - 🔥 Days Completed: `X/365`
 - ⌛ Streak status: `On-going / Restarted / Completed`
 - 🧩 Total problems solved: `___`
-- 💬 Reflections: Logged weekly
+- 💬 Reflections: Logged in every 15 DAYs
 
 ---
 
