@@ -1,3 +1,3 @@
->solving more questions on pattern printing
+>Solving more questions on pattern printing.
 
 >Platform :: HackerRank
