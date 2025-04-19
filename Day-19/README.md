@@ -1,5 +1,5 @@
 >PYTHON
 
->Solving basic and important topics of the language.
+>Solving questions on list and sets.
 
 >Platform :: IIT-Madras BS Degree
