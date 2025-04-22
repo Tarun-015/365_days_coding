@@ -1,5 +1,5 @@
 >PYTHON
 
->Solving basic and important topics of the language.
+>Moving forward with function making and revision of basics.
 
 >Platform :: IIT-Madras BS Degree
