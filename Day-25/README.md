@@ -1,5 +1,5 @@
 >PYTHON
 
->Solving basic and important topics of the language.
+>Revision of strings data type.
 
 >Platform :: IIT-Madras BS Degree
