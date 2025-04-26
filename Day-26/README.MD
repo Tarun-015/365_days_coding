@@ -1,5 +1,5 @@
 >PYTHON
 
->Solving basic and important topics of the language.
+>Revision and start of FILE HANDLING.
 
 >Platform :: IIT-Madras BS Degree
