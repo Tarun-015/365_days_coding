@@ -1,5 +1,5 @@
->PYTHON
+>##PYTHON##
 
->Solving basic and important topics of the language.
+>Solving questions on recursion.
 
 >Platform :: IIT-Madras BS Degree
