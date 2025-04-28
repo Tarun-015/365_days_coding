@@ -1,5 +1,3 @@
->PYTHON
-
->Solving basic and important topics of the language.
+>##PYTHON##
 
 >Platform :: IIT-Madras BS Degree
