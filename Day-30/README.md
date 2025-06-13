@@ -2,4 +2,4 @@
 
 >Solving questions on OOPs.
 
->Platform :: IIT-Madras BS Degree
+>PlatForm :: IIT-Madras BS Degree
