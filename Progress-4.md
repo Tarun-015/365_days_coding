@@ -13,5 +13,6 @@
 
 💬 Language: C,python,java,c++,SQL
 
+
 >>>>DAY-60 ::  history of lanuagesnotes
 >>>>Total questions :: 186
