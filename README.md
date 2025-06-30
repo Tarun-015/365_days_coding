@@ -97,7 +97,7 @@ You can fork and start your own 365-days-coding journey based on this template!
 Created and maintained by [Tarun Chaudhary]
 
 
-📧 Email: tarun2004@gmail.com
+📧 Email: tarun2004tc@gmail.com
 
 
 🔗 LinkedIn[ https://www.linkedin.com/in/tarun-chaudhary-5812bb326 ]
