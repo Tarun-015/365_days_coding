@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KFC</title>
+    <link rel="stylesheet" href="/node_modules/bootstrap-icons/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="/node_modules/bootstrap/dist/css/bootstrap.css">
+    <style type="text/css">
+        .image1 {
+            display: flex;
+            flex-direction: row;
+            justify-content: space-around;
+
+        }
+        body{
+          background: red;
+        }
+    </style>
+</head>
+
+<body >
+    <nav class="w-40">
+        <img
+            src="https://i.abcnewsfe.com/a/91e8187f-6261-4b25-98d5-eaed01952d79/kfc-double-down-ht-thg-230301_1677690002002_hpMain_16x9.jpg" height="300px" width="2000px">
+        <div class="accordion" id="menu">
+            <div class="accordion-item mb-3">
+                <h2 class="accordion-header">
+                    <button class="m-2 p-1 btn btn-danger w-100" type="button" data-bs-toggle="collapse"
+                        data-bs-target="#details">
+                        Customer Details
+                    </button>
+                </h2>
+                <div id="details" class="accordion-collapse collapse" data-bs-parent="#menu">
+                    <div class="accordion-body">
+                        <h2>Customer Name</h2>
+                        <form class="w-100" for="Customer Name">
+                            <input type="text" name="username" class="w-100 m-2 p-2">
+                        </form><br>
+                        <h2>Mobile Number</h2>
+                        <form class="w-100" for="Mobile Number">
+                            <input type="number" name="mobilenumber" class="w-100 m-2 p-2">
+                        </form>
+
+
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-item mb-3">
+                <h2 class="accordion-header">
+                    <button class="m-2 p-1 btn btn-danger w-100" type="button" data-bs-toggle="collapse"
+                        data-bs-target="#meal">
+                        Select Your meal
+                    </button>
+                </h2>
+                <div id="meal" class="accordion-collapse collapse" data-bs-parent="#menu">
+                    <div class="accordion-body">
+                        <div class="image1">
+                            <img src="https://tse3.mm.bing.net/th?id=OIP.ECbbscuJ5LYR2UkupgVtYwHaFj&pid=Api&P=0&h=180" width="400px" height="400px">
+
+
+
+                            <img src="https://tse3.mm.bing.net/th?id=OIP.ECbbscuJ5LYR2UkupgVtYwHaFj&pid=Api&P=0&h=180"
+                                width="400px" height="400px">
+
+                        </div>
+                        <div class="image1">
+                            <span>
+                                <h2>OMG BURGER 120/-</h2>
+                            </span>
+                            <span>
+                                <h2>OMG Roller 150/-</h2>
+                            </span>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-item mb-3">
+                <h2 class="accordion-header">
+                    <button class="m-2 p-1 btn btn-danger w-100" type="button" data-bs-toggle="collapse"
+                        data-bs-target="#add">
+                        Select ADD on's
+                    </button>
+                </h2>
+                <div id="add" class="accordion-collapse collapse" data-bs-parent="#menu">
+                    <div class="accordion-body">
+                        <div class="image1">
+                            <img
+                                src="https://www.mashed.com/img/gallery/kfc-south-korea-just-debuted-an-unexpected-new-sauce/l-intro-1659105033.jpg"
+                                width="400px" height="400px">
+
+
+                              <img
+                                src="https://www.mashed.com/img/gallery/kfc-south-korea-just-debuted-an-unexpected-new-sauce/l-intro-1659105033.jpg"
+                                width="400px" height="400px">
+                            
+
+                        </div>
+                        <div class="image1">
+                            <span>
+                                <h2>Hot Wings 120/- </h2>
+                            </span>
+                            <span>
+                                <h2>Krusher Brownie 150/-</h2>
+                            </span>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+                    <button class="m-2 p-1 btn btn-danger w-100" type="button" data-bs-toggle="modal"
+                        data-bs-target="#order">
+                        Place Order
+                    </button>
+                        <div class="modal fade" id="order">
+                            <div class="modal-dialog">
+                                <div class="modal-content">
+                                    <div class="modal-header bg-info">
+
+                                        <span style="color:red;">Your Bill Summary</span>
+                                        <button class="btn btn-close" data-bs-dismiss="modal"></button>
+
+                                    </div>
+                                    <div class="modal-body">
+                                        <ul style="list-style-type: none;">
+                                            <li>Customer Name</li>
+                                            <li>Mobile</li>
+                                            <li>Meal</li>
+                                            <li>Add on's</li>
+                                            <li>Total</li>
+
+                                        </ul>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </nav>
+    <script src="/node_modules/jquery/dist/jquery.js"></script>
+    <script src="/node_modules/bootstrap/dist/js/bootstrap.bundle.js"></script>
+</body>
+
+</html>
