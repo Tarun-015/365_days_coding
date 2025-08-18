@@ -1,0 +1,5 @@
+-- Write an SQL query to find the match dates where the host team score is not between 1 and 4.[Database: FLIS] 
+
+SELECT match_date
+FROM matches
+WHERE host_team_score NOT BETWEEN 1 AND 4
