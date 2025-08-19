@@ -7,10 +7,14 @@ compilation of first question ::
     java Main
 
 
-Creating own packages and using them in other programs
+Creating own packages and using them in other programs  ::
 
 Packages in JAVA
+
 namespace in C++
+
 Libraries in Python
+
 include<> in C
+
 
