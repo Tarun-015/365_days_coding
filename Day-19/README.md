@@ -2,4 +2,5 @@
 
 >Solving questions on list and sets.
 
->Platform :: IIT-Madras BS Degree
+>Platform :: IIT-Madras BS Degree.
+
