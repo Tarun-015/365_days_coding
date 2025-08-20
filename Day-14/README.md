@@ -2,4 +2,5 @@
 
 >With revision of Bitwise operation.
 
->Platform :: HackerRank
+>Platform :: HackerRank.
+
