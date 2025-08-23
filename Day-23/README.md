@@ -2,4 +2,4 @@
 
 >Solving questions on tuples.
 
->Platform :: IIT-Madras BS Degree
+>Platform :: IIT-Madras BS Degree.
