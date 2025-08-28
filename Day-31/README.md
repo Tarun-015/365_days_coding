@@ -2,7 +2,9 @@
 
 This is a simple console-based number guessing game implemented using **Object-Oriented Programming (OOP)** in Python. The computer randomly selects a number, and the player has to guess it within a limited number of attempts.
 
+
 ---
+
 
 ## 🚀 Features
 
@@ -12,7 +14,9 @@ This is a simple console-based number guessing game implemented using **Object-O
 - Customizable number range and attempt limit
 - Friendly feedback messages
 
+
 ---
+
 
 ## 🧠 How It Works
 
@@ -21,3 +25,4 @@ This is a simple console-based number guessing game implemented using **Object-O
 3. After each guess, you’ll be told if your guess is too high or too low.
 4. If you guess correctly within the limit, you win!
 5. If not, the game ends and reveals the secret number.
+
