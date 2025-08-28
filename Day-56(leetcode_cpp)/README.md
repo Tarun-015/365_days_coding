@@ -2,4 +2,5 @@
 
 > And , unlocking the potential of new language "C++"
 
->Platform :: Leetcode 
+>Platform :: Leetcode .
+
