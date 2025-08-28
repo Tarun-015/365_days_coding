@@ -1,3 +1,4 @@
 >Platform :: Leetcode
->
->basic joins qustiones
+
+>basic joins qustiones.
+
