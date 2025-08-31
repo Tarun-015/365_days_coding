@@ -4,4 +4,4 @@
 
 >And at first glance the length of questions scared me. 
 
->Platform :: Hackerrank
+>Platform :: Hackerrank.
