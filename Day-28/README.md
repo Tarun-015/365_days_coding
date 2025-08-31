@@ -2,4 +2,4 @@
 
 >Solving questions on recursion.
 
->Platform :: IIT-Madras BS Degree
+>Platform :: IIT-Madras BS Degree.
