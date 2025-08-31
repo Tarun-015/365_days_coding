@@ -2,4 +2,4 @@
 
 >Revision of strings data type.
 
->Platform :: IIT-Madras BS Degree
+>Platform :: IIT-Madras BS Degree.
