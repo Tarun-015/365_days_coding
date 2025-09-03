@@ -2,4 +2,4 @@
 
 >solving pattern based question.
 
->Platform :: HackerRAnk
+>Platform :: HackerRAnk.
