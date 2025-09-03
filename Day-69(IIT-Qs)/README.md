@@ -1,3 +1,5 @@
 Solving JAVA assignment
 
-Platform :: IIT-Madras BS degree questions
+week 4
+
+Platform :: IIT-Madras BS degree questions.
