@@ -15,4 +15,4 @@ async and await
 
   async → used to declare a coroutine function.
   
-  await → pauses the coroutine until the awaited task is done (without blocking other tasks).
+  await → pauses the coroutine until the awaited task is done (without blocking other tasks)..
