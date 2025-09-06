@@ -4,4 +4,4 @@
 
 >Starting of with concepts of Prime Number.
 
->Platform :: HackerRAnk
+>Platform :: HackerRAnk.
