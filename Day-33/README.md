@@ -1,5 +1,5 @@
 >Language : c
 
->solving pattern based question.
+>Solving pattern based question.
 
 >Platform :: HackerRAnk.
