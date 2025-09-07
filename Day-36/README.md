@@ -1,4 +1,4 @@
-Language : c
+Language : C
 
 solving "PRIME NO." based question.
 
