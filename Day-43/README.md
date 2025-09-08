@@ -6,4 +6,4 @@ As the level of question is increasing the more clearance of logic
 
 And, starting of ARRAYS
 
-Platform :: HackerRAnk
+Platform :: HackerRAnk.
