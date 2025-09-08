@@ -1,6 +1,6 @@
 # Java Array Exception Demos
 
-This repo contains small Java programs to demonstrate common array-related exceptions:
+This repo contains small Java programs to demonstrate common array-related exceptions ::
 
 | File Name                     | Exception                      |
 |------------------------------|--------------------------------|
