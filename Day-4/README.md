@@ -4,4 +4,4 @@
 
 >And, foremost most favourite part for a interviewer.
 
->Platform :: Hackerrank
+>Platform :: Hackerrank.
