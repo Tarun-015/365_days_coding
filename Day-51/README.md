@@ -2,4 +2,4 @@
 
 >A simple questions with 4 different approach
 
->Platform :: GeeksofGeeks
+>Platform :: GeeksofGeeks....
