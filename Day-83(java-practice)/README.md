@@ -39,7 +39,7 @@ This repository contains multiple Java programs that demonstrate key concepts of
 - `reverse()`
 
 
----
+
 
 ## 📌 3. StringBufferAppendDemo.java
 
@@ -53,7 +53,7 @@ This repository contains multiple Java programs that demonstrate key concepts of
 - `boolean`
 
 
----
+
 
 ## 📌 4. StringBuilderToStringMethods.java
 
@@ -61,7 +61,7 @@ This repository contains multiple Java programs that demonstrate key concepts of
 - Use `indexOf()`, `lastIndexOf()`, `substring()`, `codePointAt()` on a `StringBuilder` by converting it to `String`.
 
 
----
+
 
 ## 🔍 Key Concepts Explained
 
@@ -73,6 +73,7 @@ This repository contains multiple Java programs that demonstrate key concepts of
 | Conversion to String| ✅ via `.toString()` | ✅ | Required for `indexOf`, `substring`, etc. |
 
 ---
+
 
 
 
