@@ -4,4 +4,4 @@
 
 >And a fundemental concepts aplicable for all languages.
 
->Platform :: HackerRank
+>Platform :- HackerRank
