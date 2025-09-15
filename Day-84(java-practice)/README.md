@@ -18,12 +18,6 @@ This repository contains 4 useful Java programs that focus on solving common str
 | `ToggleCase.java`              | Toggles uppercase to lowercase and vice versa |
 | `AnagramChecker.java`          | Checks if two strings are anagrams |
 
----
 
-## ✅ 1. StringPalindromeChecker.java
-
-### 🔍 Logic:
-- Reverses the string using `StringBuilder`
-- Compares original and reversed version
 
 
