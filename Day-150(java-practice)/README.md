@@ -1,7 +1,7 @@
 Map Interface: HashMap, LinkedHashMap, TreeMap, Hashtable
 
 
-    📚 Concepts Covered
+     Concepts Covered
 
 Map stores key–value pairs
 
@@ -32,5 +32,6 @@ HashMap	        ❌ No	            ✅ Yes	    ❌ No	    Hash Table
 LinkedHashMap	✅ Insertion	        ✅ Yes	    ❌ No	    Linked + Hash Table
 
 TreeMap	        ✅ Sorted (by Key)	❌ No	    ❌ No	    Red-Black Tree
+
 
 Hashtable	    ❌ No	            ❌ No	    ✅ Yes	    Hash Table
