@@ -4,7 +4,9 @@
 
 ⌛ Streak status: On-going
 
-🧩 Total problems solved: 70[ "C" ] +
+🧩 Total problems solved:
+
+                  70[ "C" ] +
 
                     64[ "Python" ] + 
                     
@@ -27,5 +29,6 @@
 
 
 💬 Language: C,python,java,c++,SQL,Web dev(HTML+CSS+JS),PostgreSQL,R
+
 
 Total questions :: 617
