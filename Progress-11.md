@@ -1,6 +1,6 @@
 📈 Progress ::
 
-🔥 Days Completed: 150/365
+🔥 Days Completed: 165/365
 
 ⌛ Streak status: On-going
 
@@ -30,4 +30,5 @@
 
 💬 Language: C,python,java,c++,SQL,Web dev(HTML+CSS+JS),PostgreSQL,R
 
-Total questions :: 679
+
+Total questions :: 680
