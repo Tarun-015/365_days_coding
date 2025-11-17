@@ -3,6 +3,10 @@ Q.  “First Non-Repeating Character in a Stream” type problem —
   or # if none exists.
 
 solution :
+
  >queue+hashmap -> c++,python
+
  >stack+dict -> python
+
  >list+dict -> python
+
