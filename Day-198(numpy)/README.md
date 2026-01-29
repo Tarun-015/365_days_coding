@@ -1,4 +1,4 @@
- Covers all key array operations:
+  ## Covers all key array operations:
 
 Math, stats, axis, sort/search
 
@@ -9,7 +9,7 @@ Round/floor/ceil/trunc, dot product
 Clip, count
 
 
-  Concepts Covered:
+ ## Concepts Covered:
 
 Basic & negative indexing
 
@@ -18,5 +18,6 @@ Basic & negative indexing
 Fancy (list-based) indexing
 
 Boolean filtering with &, |, ~
+
 
 View vs Copy difference
