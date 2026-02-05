@@ -75,3 +75,6 @@ Interview prep topics
   📈 Progress
 
 ✅ 200+ days completed and counting — keep pushing forward!
+
+**Let's code**
+
