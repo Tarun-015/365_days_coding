@@ -1,0 +1,13 @@
+
+<!DOCTYPE html>
+<table id="personal-details">
+<tr><th>Roll</th><th>First</th><th>Last</th></tr>
+<tr><td>{{s.roll_number}}</td><td>{{s.first_name}}</td><td>{{s.last_name}}</td></tr>
+</table>
+<table id="enroll-table">
+<tr><th>SNo</th><th>Code</th><th>Name</th><th>Desc</th></tr>
+{% for c in courses %}
+<tr><td>{{loop.index}}</td><td>{{c.course_code}}</td><td>{{c.course_name}}</td><td>{{c.course_description}}</td></tr>
+{% endfor %}
+</table>
+<a href="/">Go Back</a>

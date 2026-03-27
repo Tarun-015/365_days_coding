@@ -1,0 +1,21 @@
+
+<!DOCTYPE html>
+<html><body>
+<h2>Students list</h2>
+<a href="/student/create">Add Student</a>
+<table id="all-students">
+<tr><th>SNo</th><th>Roll Number</th><th>First Name</th><th>Last Name</th><th>Actions</th></tr>
+{% for s in students %}
+<tr>
+<td>{{loop.index}}</td>
+<td><a href="/student/{{s.student_id}}">{{s.roll_number}}</a></td>
+<td>{{s.first_name}}</td>
+<td>{{s.last_name}}</td>
+<td>
+<a href="/student/{{s.student_id}}/update">Update</a>
+<a href="/student/{{s.student_id}}/delete">Delete</a>
+</td>
+</tr>
+{% endfor %}
+</table>
+</body></html>
