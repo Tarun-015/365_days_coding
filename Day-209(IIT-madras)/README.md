@@ -1,1 +1,3 @@
-week 6
+week 6 assignement 
+
+Course :: MAD-1
