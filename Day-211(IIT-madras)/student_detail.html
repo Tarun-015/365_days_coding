@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html><body>
+<table id="student-detail">
+<tr><th>Roll</th><th>First</th><th>Last</th></tr>
+<tr><td>{{student.roll_number}}</td><td>{{student.first_name}}</td><td>{{student.last_name}}</td></tr>
+</table>
+
+{% if courses %}
+<table id="student-enrollments">
+<tr><th>SNo</th><th>Code</th><th>Name</th><th>Desc</th><th>Actions</th></tr>
+{% for c in courses %}
+<tr>
+<td>{{loop.index}}</td>
+<td>{{c.course_code}}</td>
+<td>{{c.course_name}}</td>
+<td>{{c.course_description}}</td>
+<td><a href="/student/{{student.student_id}}/withdraw/{{c.course_id}}">Withdraw</a></td>
+</tr>
+{% endfor %}
+</table>
+{% endif %}
+
+<a href="/">Go Back</a>
+</body></html>

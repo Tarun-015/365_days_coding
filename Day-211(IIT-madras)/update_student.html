@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html><body>
+<form method="POST" id="update-student-form">
+<input type="text" value="{{student.roll_number}}" disabled>
+<input type="text" name="f_name" value="{{student.first_name}}" required>
+<input type="text" name="l_name" value="{{student.last_name}}">
+<select name="course">
+{% for c in courses %}
+<option value="{{c.course_id}}">{{c.course_name}}</option>
+{% endfor %}
+</select>
+<input type="submit" value="Update">
+</form>
+</body></html>
