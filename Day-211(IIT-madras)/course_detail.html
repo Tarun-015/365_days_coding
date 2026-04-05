@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html><body>
+<table id="course-detail">
+<tr><th>Code</th><th>Name</th><th>Desc</th></tr>
+<tr><td>{{course.course_code}}</td><td>{{course.course_name}}</td><td>{{course.course_description}}</td></tr>
+</table>
+
+<table id="course-table">
+<tr><th>SNo</th><th>Roll</th><th>First</th><th>Last</th></tr>
+{% for s in students %}
+<tr>
+<td>{{loop.index}}</td>
+<td>{{s.roll_number}}</td>
+<td>{{s.first_name}}</td>
+<td>{{s.last_name}}</td>
+</tr>
+{% endfor %}
+</table>
+
+<a href="/courses">Go Back</a>
+</body></html>
